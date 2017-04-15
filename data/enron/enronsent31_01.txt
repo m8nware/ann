@@ -1,0 +1,128 @@
+Dr. Harris:
+ I would like to thank you for personally taking the time to closely review 
+my application. Though I am disappointed with the results I am still 
+determined to attend The TEXAS Graduate School of Business next year.  I 
+understand how competitive the process has become, but I felt that with my 
+work experiences, recommendations, personality, extracurricular activities, 
+etc. that this would compensate for my disability.  After talking with 
+Professors Titman, Ronn, Brown and Jemison, I was sure that the School was 
+the right place to get the education I was looking for.  
+  I am still certain that the School is the best place for getting a great 
+graduate-level education, so I want you to know that I am going to do 
+whatever it takes to get in next year.  I plan on taking two or three 
+graduate level finance courses at the University of Houston this Summer and 
+Fall to demonstrate to the Admissions committee that I can compete at the 
+graduate level. I also plan on retaking the GMAT test.  Due to my disability, 
+this will be a monumental task; but I am determined to prove to the Committee 
+that I can be successful at The TEXAS Graduate School of Business.  I would 
+like to come down to Austin this spring to meet with you to further discuss 
+my application file and to personally meet you.   
+  If you think of anything else I can do to strengthen my overall application 
+file for next year, please let me know.  Take care and hope to hear from you 
+soon.
+
+Sincerely,
+
+Ben Rogers
+  
+
+Professor Ronn: 
+ I would like to thank you for taking the time to recommend me to the MBA 
+Program.  In the end, the results were not favorable.  I understand that it 
+is a competitive process, but I felt that with my work experiences, 
+recommendations, extracurricular activities, etc., that this would help my 
+chances and possibly compensate for my disability.  After talking with you 
+and Professors Titman, Brown and Jemison, I was sure that UT was the right 
+place to continue learning about energy-finance.  
+  I am still sure that UT is the place for getting an excellent 
+graduate-level education, so I want you to know that I am going to do 
+whatever it takes to get in next year.  I plan on taking two or three 
+graduate level finance courses at the University of Houston this Summer and 
+Fall to demonstrate to the Admissions office that I can compete at this 
+level. I also plan on trying to retake the GMAT test.  Due to my disability, 
+this will be a monumental task, but I am determined to prove to the 
+Admissions commitee that I can excel with the work at The Texas University 
+Graduate School of Business.  
+ Thanks again for taking the time to listen and talk with me.  It has been a 
+pleasure meeting you and I hope we can continue to talk about energy and 
+finance in the future.  Also, if you can think of anything else I can do to 
+strengthen my overall application file for next year, please let me know.  
+Take care and hope to hear from you soon.
+
+Sincerely,
+
+Ben Rogers
+  
+
+Professor Titman:
+ I would like to thank you for taking the time to recommend me to the MBA 
+Program.  In the end, the results were not favorable.  I understand that it 
+is a competitive process, but I felt that with my work experiences, 
+recommendations, extrcurricular activities, etc., that this would help my 
+chances and possibly compensate my disability.  After talking with you and 
+Professors Ronn, Brown and Jemison, I was sure that UT was the right place to 
+continue learning about energy-finance.  
+  I am still sure that UT is the place for getting an excellent 
+graduate-level education, so I want you to know that I am going to do what 
+ever it takes to get in next year.  I plan on taking a couple of graduate 
+level finance courses at the University of Houston this Summer and Fall to 
+demonstrate to the Admissions office that I can compete at this level. I also 
+plan on trying to retake the GMAT test.  Due to my disability, this will be a 
+monumental task, but I am determined to prove to the Admissions committment 
+that I can do the work at The Texas University Graduate School of Business.
+ Also, I would like to continue our dialague regarding creating an 
+Energy-Finance Private Equity Fund at UT.  I know that with my industry-wide 
+and investment banking contacts that I can help raise capital for the fund.  
+I am very interested in energy-finance and think that your idea is a very 
+good.  
+ Thanks again for taking the time to listen and talk with me.  It has been a 
+pleasure to meet with you and I hope we can continue to talk about energy and 
+finance in the future.  Also, if you think of anything else I can do to 
+strengthen my overall application file for next year, please let me know.  
+Take care and hope to hear from you soon.
+
+Sincerely,
+
+Ben Rogers
+  
+
+Let me know if you have any questions. Thanks
+Ben
+
+Sorry about that, I was working on the Teco O&M costs.  Thanks
+Ben
+Please send me an excel spreadsheet which depicts the value that you see 
+associated with the heat rate spread option.  I want to make sure that I 
+understand exactly how you propose valuing the transaction and how this value 
+would be booked.  As such, please provide the following detail:
+
+Will we be valuing/booking a series of monthly call options or a series of 
+daily call options?
+What power curve are we valuing the deal against - PJM East or West Hub?
+Please send me the current fuel curve that you are converting to $/MWh to 
+value the deal?
+What volatilities are you using to value the options - monthly volatilities 
+or intra-day volatilities or a blend of the two (if blending please show me 
+what formula you using to blend the two vols)?
+What expiration date are you using, i.e.: for monthly call options the 15th 
+of the relevant month, and for daily options?
+What correlation are you assuming, 15% flat for twenty years?
+Are you deducting all operating expenses from the value of the option?
+Are you using the "SPRDOPT" Exotic Options function to value the option?
+Are you using the $/MWh VOM dollar amount as your strike?
+Has Don provided the fixed payment stream?  This stream should be covering 
+both P&I and not just principal.
+
+Yvan, and Ben, please provide answers to these question via written 
+correspondence so that their is limited probability of misunderstanding.  
+Thank you both very much for your time and help thus far.  Furthermore, I 
+would like to reiterate that RAC's goal, prior to quoting any credit reserve, 
+is to be 100% confident that: (i) the methodology that is being employed is 
+consistent among the internal groups; and (ii) the inherent value of the 
+price risk management contracts matches.  This enables RAC to manage the 
+associated risk during the life of the transaction both effectively and 
+appropriately.
+
+Regards,
+
+Christopher

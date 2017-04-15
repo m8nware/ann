@@ -1,0 +1,65 @@
+Move-Team@ENRON
+09/20/2000 03:22 PM
+Sent by: John Salinardo@ENRON
+it is to late for me to add changes.  We will have to correct them after the 
+churn.  Thank you for you patience.
+
+   
+
+The Dow  topped out in February of 1966 at 995. By September of that year the 
+Dow had  tumbled to 744. The Dow then rallied to a high of 943 in September 
+of '67. By  March of '68 the Dow had fallen to 825, only to climb to a highly 
+speculative  peak of 985 in December of '68. The Dow then sank to 631 in 
+December of '70.  
+
+By April of '71 the Dow had climbed back to 950, only to fall to 869 in  
+February of '72. A big rally then took the Dow (unconfirmed) to a record high 
+of  1051 in January of '73, turning everyone bullish. But by December of '73 
+the Dow  had collapsed to 788. Think that was bad - by December of '74 the 
+Dow had sunk  to a bear market low of 577. At that time, the gurus and 
+geniuses of Wall Street  were predicting a 250 Dow and many were talking 
+openly about the end of  capitalism. Of course, that was the bottom
+
+And that's  the way the greatest bear market since the Depression worked its 
+way down. By  late 1974 investors were dizzy, they were desperate, they were 
+wrung-out, they  had left Wall Street, many for  good.
+
+great, we look forward to seeing you.
+
+DEBRA PERLINGIERE
+09/20/2000 09:32 AM
+I will not be there at 7:30, but will see you arond 9:30 on Tuesday.
+
+Many thanks!
+
+Debra Perlingiere
+
+Edward Terry
+09/08/2000 09:55 AM
+FYI,
+
+Per the memo, ENA's storage account will be REDUCED by 420,588 mmbtu!!!!!!
+
+Robert D Morgan
+09/08/2000 09:36 AM
+The results of the February 26th PVT test conducted on Nville have been 
+discussed with each of you over the last three months.  As we have 
+discussed....effective Sep 13th,  Anita will make the adjustments to Enron's 
+inventory and pad gas to reflect the February 26th results.
+
+I talked with Gary Wilson, and he confirmed that the revised values are 
+correct.  Attached is a spreadsheet that contains the values.
+
+The correction to the working gas includes TWO corrections.  The results of 
+the February 26th test reduces the working gas by 398,487MMBTU.  In addition, 
+there is a reduction of 22,101MMBTU which is the difference between the SCADA 
+values (Best Available) that Anita showed on the February 29th Storage Sheet 
+and the "official" February 29th values that Gary Wilson received from MIPS.
+
+To summarize:
+ Enron's pad gas will now be 3,993,310MMBTU, instead of 4,223,000MMBTU.
+ Enron's working gas will be reduced by 420,588MMBTU.
+
+Call me if there are any questions.
+
+fyi

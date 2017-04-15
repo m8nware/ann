@@ -1,0 +1,95 @@
+Visit,
+
+Thanks for your message.
+Can you send me the data you used: I shall take a look at it.
+
+Vince
+
+Dear All,
+My mane is Visit Phunnarungsi. I used to e-mail Vince Kaminski about the advice on his article "The Challenge of Pricing and Risk Managing Electricity Derivatives" and he had mailed me the copy.
+I am now modelling the Queensland electricity spot price using Geometric Brownian Mean Reverting Jump Diffusion Model and have followed your paper "Making the most of mean reversion" to estimate the mean reversion speed. I use Queensland half-hourly price during 13 December, 1998-30 June 2001 giving about 44,000 price observations. 
+However, the result from Ordinary Least Squares was not as expected due to different sign for both slope & intercept. The coefficient and standard error are as followed:
+Intercept: -0.3931 (0.0076)
+Slope: 0.1171 (0.0022)
+R Square: 0.0585
+Therefore I could not estimate the mean reversion rate as the estimated slope has the positive sign. I have also tried monthly data and the results are the same. It would be appreciated if you could advice me on this matter.
+Kindest regards,
+Visit
+
+Get your FREE download of MSN Explorer at http://explorer.msn.com << File: 'http://go.msn.com/bql/hmtag_itl_EN.asp' >> 
+
+Chris,
+
+Plz contact Shirley Crenshaw (X 3-5290) regarding a copy
+of an article.
+
+Vince
+
+Traci,
+
+Thanks. This is the best solution given all the uncertainties
+we face.
+
+Vince
+
+Vince - 
+
+Thanks for the message regarding a possible intern for your group.  Right now, we are in the process of evaluating both our new hire needs and our summer needs and will be making those decisions after the first of the year.  Until we have come up with those numbers it would be premature to make any offers for the summer.  What I would like to do in this case is get the information to Jeff Davis, who is responsible for Georgia Tech and ask him to get Sungjoo's resume and start a file on him with a notation that you would like to hire him for summer. 
+
+When we start the summer process, we will interview the candidate and slot him for your group.
+
+Is this okay with you?
+
+Hope all is well  with you 
+
+Take Care
+Traci 
+
+Traci,
+
+I have visited Georgia Tech on Thursday.
+One of the students indicated that he is
+interested in a summer internship.
+He came across as a very bright person,
+very personable.
+
+I can take him as a summer intern.
+
+Vince
+
+Dear Dr. Vincent Kaminski,
+
+Hi. How are you doing? I hope you have a good flight back to home.
+It was a good opportunity to know about Enron and its finance sector.
+Thank you for your time.
+
+I have already submitted my resume and cover letter right after the talk.
+However, you ask me to send a copy of resume and cover letter again. Those
+attachments are what I was asked. Again, it was a good chance for me to
+get to know what I can do in this field and what I have to more focus on
+in school.
+
+I am looking forward to hearing from you soon and have a nice day.
+Thank you.
+
+************************************************
+Sungjoo Lee
+Stochastic Processes and Simulation in Finance
+Georgia Institute of Technology
+School of Industrial and Systems Engineering
+
+E-mail address:   goldconn@isye.gatech.edu
+             gte114t@prism.gatech.edu
+Home : 404-449-1026   Office: Coming Soon!
+
+************************************************
+
+ - Lisa_coverletter.doc << File: Lisa_coverletter.doc >> 
+ - Lisa_resume.doc << File: Lisa_resume.doc >> 
+
+FYI
+
+Vince
+
+P.S. Tom, Please, contact Vernon and get the details.
+

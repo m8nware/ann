@@ -1,0 +1,6 @@
+*~
+*.fasl
+\#*
+.*
+*.ann
+!.gitignore

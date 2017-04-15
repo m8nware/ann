@@ -1,0 +1,12 @@
+PERS:
+    desc: Person
+    color: red
+ORG:
+    desc: Organization
+    color: blue
+LOC:
+    desc: Geo-political entity
+    color: yellow
+MISC:
+    desc: Other
+    color: green

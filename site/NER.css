@@ -1,0 +1,4 @@
+SPAN.ann-tag-PERS { background-color: rgba(255,0,0,0.3); }
+SPAN.ann-tag-ORG { background-color: rgba(0,0,255,0.3); }
+SPAN.ann-tag-LOC { background-color: rgba(255,217,0,0.3); }
+SPAN.ann-tag-MISC { background-color: rgba(0,255,0,0.3); }

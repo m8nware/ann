@@ -1,0 +1,232 @@
+Tana,
+ 
+Please review the process below:
+
+With divisions,  EOL does request a new Password Application for the 
+applicant reflecting the name as you noted below.  When the company is set up 
+in the EOL database we link the company to the Parent and reference the CP 
+ID.  Sam, please confirm, Global Counterparty also provides the links to 
+establish correlation between the parent and child for our downstream systems.
+
+Let me know if this is the appropriate steps that you would like to see.  
+
+Thanks,
+Stephanie    
+
+Sam & Stephanie,
+
+Re:  Cargill Ferrous International
+
+It was my understanding with the EOL Team that all divisions would have the 
+legal incorporated entity as part of the name.  Stephanie, I my preference is 
+to kick their Password Application back and get them to change it to read 
+something like "Cargill Ferrous International, a division of Cargill, Inc."  
+or "Cargill, Inc. acting through its Cargill Ferrous International Division".
+
+  Samuel Schott
+  03/21/2001 01:58 PM
+          
+Any GCP adjustments will be highlighted in red.
+
+Attn. GCP_London:
+There's a new EOL Counterparty listed in the UK. Please respond.
+
+ 
+
+Best Rgds.
+
+Samuel x3-9890
+ENW_GCP
+
+Please see attached.
+
+Harry - are you the right lawyer to look at this?
+  Robert B Cass
+  04/16/2001 04:52 PM
+           
+Please approve the following product type in Datamanager after 11:00 p.m.  
+See the steps for approval below.
+
+US Steel Hot Rolled Plate Phy
+
+Website Short Description of Product Type:  US HR StlPlt Phy
+
+Product Type:
+Reference Period:
+The term of the Transaction shall be from the Effective Date (or start date) 
+to the Termination Date (or end date). The Effective Date (or start date) is 
+01 Oct 2001. The Termination Date (or end date) is 31 Oct 2001.
+
+Product Additional Information (example):
+The Transaction is for hot rolled steel with a thickness of 1" and a width of 
+72 inches. 
+The transaction is F.O.B. Reserve Marine Terminal in Chicago, Ill Metro 
+Area.  F.O.B. refers to the following terms: Seller is responsible for 
+freight, unloading and storage up to and including delivery in warehouse, 
+Buyer is responsible for storage, loading and freight after delivery.  The 
+Contract Quantity shall be quantity submitted by Counterparty via EnronOnline 
+(5% greater or lesser allowance at Seller's option). Each calendar month 
+during the term of the Transaction will be a Dispatch Period.  Enron will 
+guarantee delivery by the 20th of each scheduled Dispatch Period and accept 
+supply to the 15th of each scheduled Dispatch Period.  Payment shall be made, 
+against the receipt of the required documents outlined in the General Terms 
+and Conditions, in the Contractual Currency by telegraphic transfer no later 
+than 30 calendar days after the date on which the Commodity is released to 
+Buyer.
+
+Currency:
+The price is quoted in US Dollars per unit of volume, which will be the 
+Contractual Currency.
+
+Unit of Measure:
+The unit of measure against which the price is quoted shall be net tons (2000 
+lbs) and the quantity shown shall be in net tons per month.
+
+STEPS FOR APPROVAL:
+
+click the  START button 
+select  PROGRAMS
+select  TEST APPLICATIONS
+select ENRONONLINE CLUSTER(PROD)
+ PROCEED WITH USUAL LOGIN/PASSWORD 
+click the Enron Online Production Cluster "START" button  
+select EnronOnLine (this is the EOL Datamanager)
+ PROCEED WITH EOL LOGIN/PASSWORD
+click on the "+" for EnronOnLine
+click on the "+" for Product Types
+click on the "+" for "Awaiting Approval" (OR  "Partially Approved")
+select the product requiring review as stated in e-mail above
+Right "mouse" click on "properties" to view product set-up 
+TO APPROVE:  Right mouse click on "Approved"
+
+Thanks Bill - appreciate your help!
+
+  Bill D Hare
+  04/16/2001 05:51 PM
+          
+We informed Tana that we made the change in Global Counterparty to include, 
+"a division of Cargill Incorporated".   We will meet in the near future to 
+discuss the issues surrounding division and trade name setups in Global 
+Counterparty.
+
+Bill         
+
+Bill -
+
+If Sam's description below of the GCP procedure is correct, it looks to me 
+like something needs to be changed.  The difficulty lies in the fact that the 
+confirmation system reads the counterparty's name from Global Counterparty.  
+Since divisions of companies are not legal entities they do not have the 
+power to contract in their own names.  If the correct legal name is not in 
+Global Counterparty, the confirmation goes out with the wrong legal name on 
+it seriously compromising the contract itself.  That is the source of Tana's 
+concern regarding the correct entering of divisions in the system.  
+
+My suggestion is that Global Counterparty use the same name that the customer 
+has signed on the EnronOnline Password Application -- my understanding is 
+that the EnronOnline team returns inappropriate Applications to the customer 
+until they are correctly completed.
+
+In this particular case since the counterparty is still not allowed to 
+transact on EnronOnline almost a month after sending in their application 
+they are understandably upset and are now complaining.  I would appreciate it 
+if you could get this one fixed today and, if you have any problem with 
+changing the GCP procedure, please let me know.
+
+Mark
+
+  Tana Jones
+  04/16/2001 03:11 PM
+           
+  Samuel Schott
+  03/28/2001 01:09 PM
+           
+FYI...
+
+Cargill Ferrous International is setup correctly in the Global Counterparty 
+System as a Division of Cargill, Inc.
+Cargill Ferrous International is the full name of this division and setup as 
+such in GCP with a Sub-to-Legal Link
+to Cargill, Inc. per GCP procedure.
+
+Also, the Global SAP team (Cheryl Johnson) would need Legal Name Change 
+documentation from the Counterparty
+in order to change this name.
+
+Best Rgds.
+
+Samuel x3-9890 (GCP)
+Enron Net Works _ Global Data Management
+
+Any updates on adding the correct legal name to this counterparty name?
+
+  
+  
+
+Hello,
+
+Yes, GCP provides the links to establish the correlation between the parent 
+and child for our downstream systems.
+GCP procedure is to create Counterparty names that reflect either the 
+Tradename / Division name or Parent Name  - - not both simultaneously.
+(Although, we have broken that rule for Legal in the past.) This defeats the 
+purpose of using a Tradename.
+
+Best Rgds.
+
+Samuel
+
+   
+
+  
+                             
+  
+
+Tana,
+ 
+Please review the process below:
+
+With divisions,  EOL does request a new Password Application for the 
+applicant reflecting the name as you noted below.  When the company is set up 
+in the EOL database we link the company to the Parent and reference the CP 
+ID.  Sam, please confirm, Global Counterparty also provides the links to 
+establish correlation between the parent and child for our downstream systems.
+
+Let me know if this is the appropriate steps that you would like to see.  
+
+Thanks,
+Stephanie    
+
+Sam & Stephanie,
+
+Re:  Cargill Ferrous International
+
+It was my understanding with the EOL Team that all divisions would have the 
+legal incorporated entity as part of the name.  Stephanie, I my preference is 
+to kick their Password Application back and get them to change it to read 
+something like "Cargill Ferrous International, a division of Cargill, Inc."  
+or "Cargill, Inc. acting through its Cargill Ferrous International Division".
+
+  Samuel Schott
+  03/21/2001 01:58 PM
+          
+Any GCP adjustments will be highlighted in red.
+
+Attn. GCP_London:
+There's a new EOL Counterparty listed in the UK. Please respond.
+
+ 
+
+Best Rgds.
+
+Samuel x3-9890
+ENW_GCP
+
+Please see attached.
+
+Doc -
+
+I'll be in town through Sunday morning.  Any chance we can get together for 
+dinner Saturday eve.?
+
+Mark

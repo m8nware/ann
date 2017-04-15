@@ -1,0 +1,108 @@
+Hi everyone,
+
+I just got of the phone with Hai and he told me how to make an adjustment on a day to day basis in regards to incorrect liquidations but he also explained this is just to make the daily P&L #'s right, if nothing were done the month end P&L would still somehow work out because adjustments would be made. Does this mean that for June and for a certain portion of July we should not do anything and just make adjustments on a going forward basis (and assume everything will work out at month end)?
+If this is the case I would like someone to walk me through June to see if the numbers did really work themselves out as there was a large swing in second order on June 29 that was not adjusted for.
+
+Let me know if one of you could help me do this.
+Karim.
+
+Evidently, this a problem that Stacey White has been aware of for a couple of months now. There was a change made in the coding for the delta position and this has somehow messed up the liq value.
+
+John
+
+John, Karim,
+
+I'm now looking closely at the option liquidation problems. I believe that there might be a sign-flipping problem for PUTS that 's causing this whole issue. I'll keep you posted.
+Karim - this's likely the explanation to your other question... I'll get back to you as soon as I have more info (hopefully later today)
+
+Marcelo L. Meira
+Sr IT Developer
+Enron Networks - Houston, TX
+(713) 345-3436
+
+The post id I am looking at for Calgary is 11608. I am looking at the option liquidation report and all of the $65 puts are in the money and the $75 call is also in the money. Shouldn't all the liquidation values from the beginning of the month be a negative (representing positive liquidation) for the puts? The liq value for the call is CORRECT.
+
+John
+
+Karim, I don't want to wait till month end, let's adjust the numbers now and for the June 29 2nd order, lets take that value into June since it relates to July puts.
+
+Hi everyone,
+
+I just got of the phone with Hai and he told me how to make an adjustment on a day to da
+y basis in regards to incorrect liquidations but he also explained this is just to make the d
+aily P&L #'s right, if nothing were done the month end P&L would still somehow work out becau
+se adjustments would be made. Does this mean that for June and for a certain portion of July 
+we should not do anything and just make adjustments on a going forward basis (and assume everything will work out at month end)?
+If this is the case I would like someone to walk me through June to see if the numbers did really work themselves out as there was a large swing in second order on June 29 that was not adjusted for.
+
+Let me know if one of you could help me do this.
+Karim.
+
+Evidently, this a problem that Stacey White has been aware of for a couple of months now. There was a change made in the coding for the delta position and this has somehow messed up the liq value.
+
+John
+
+John, Karim,
+
+I'm now looking closely at the option liquidation problems. I believe that there might be a sign-flipping problem for PUTS that 's causing this whole issue. I'll keep you posted.
+Karim - this's likely the explanation to your other question... I'll get back to you as soon as I have more info (hopefully later today)
+
+Marcelo L. Meira
+Sr IT Developer
+Enron Networks - Houston, TX
+(713) 345-3436
+
+The post id I am looking at for Calgary is 11608. I am looking at the option liquidation report and all of the $65 puts are in the money and the $75 call is also in the money. Shouldn't all the liquidation values from the beginning of the month be a negative (representing positive liquidation) for the puts? The liq value for the call is CORRECT.
+
+John
+
+unable to attend at that time due to a prior appointment,  I can meet with you individually later some time
+
+OK, now that I've got your attention - I really am offering free lunch!  I would like to informally get together with you on Wednesday, July 18 at 11:45 am - 1:00 pm (max) to talk about your recruiting experience with Enron Canada.  We're gearing up for our 2001/02 recruiting campaign and we think your experience will help us define what works best and what can be improved in our process.
+
+For those of you in Toronto, I apologize for not being able to schedule this over your l
+unch time!  However, if you can wait til 2:00pm to eat, go ahead and grab something and expen
+se it!  We'll hook you guys in by videoconference.
+
+I've booked Videoconference Room # 1.  Please let me know whether or not you can attend so I can order enough food.  Thanks!!
+
+should be ok
+
+Kindly confirm your availability to attend an Analyst and Associate Recruiting Meeting scheduled for Thursday, July 26th at 2:00 p.m. (4:00 p.m. Toronto time).  This meeting should not take more than one hour.  The Toronto office will be video conferenced in.
+
+Regards, Nella
+
+Lets try before Fri, as I am planning to take that day off
+
+Attached is the revised draft paper that reflects our conference call with Bob Fagan earlier this week.  I propose we have a conference call with Bob Fagan on Fri July 20 at 1:00 pm Calgary time to discuss any areas of concern/confusion you may have.
+
+Also, would those of you who have not responded to me via email confirming your acceptance of the terms upon which our four companies have agreed to assume cost responsibility for the TCA work on this.  Attached is the letter I originally sent to you on May 10 in this regard. 
+
+ << File: Tabors Conflict Letter Alberta Export 050901.doc >> 
+
+Regards,
+
+Rob
+
+Rob,
+
+This draft reflects the changes we discussed during our call the other day.
+I've also included a redlined draft showing changes.
+
+Regards,
+Bob
+
+ <<Alberta Transmission Access and Pricing Analysis_0712 .doc>>
+ <<Alberta Transmission Access and Pricing Analysis_0712 redlined .doc>>
+
+ - Alberta Transmission Access and Pricing Analysis_0712 .doc << File: Alberta Transmission Access and Pricing Analysis_0712 .doc >> 
+ - Alberta Transmission Access and Pricing Analysis_0712 redlined .doc << File: Alberta Transmission Access and Pricing Analysis_0712 redlined .doc >> 
+
+NO
+
+Hi John,
+
+With reference to Article 5, section 5.1 (b), are we going to propose an alternative planned outage to TAU for next year?  
+
+Thanks,
+Mike

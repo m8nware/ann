@@ -1,0 +1,153 @@
+   Caroline Abramo@ENRON
+   03/02/2001 10:46 AM
+            
+what do you think?
+Joe_Lardy@cargill.com on 03/02/2001 10:39:03 AM
+Currently Cargill and Enron have a 15MM collateral threshold.  If
+possible, I think the cleanest way to run this biz would be to put a
+box around the prime broker biz.  We would still operate under the
+master isda but could set up a mutually agreeable credit support annex
+for this biz.  We would still keep the 20,000,000 line referenced in
+Schedule B of the POA agreement.  The line in the POA is a seperate and
+distinct measure from the daily collateral.  The 20 mill reflects gross
+exposure.  Let me know if you think this is reasonable and workable.
+We too, are open to suggestion as the Global and Enron relationships
+are very important and a high priority to us.
+
+Thanks
+Joe
+
+Joe-  a few things regading the POA/ Cargill line..
+
+I am going to find out how much line we currently have available... you
+probably already have this.  We should allocate a piece to Global which
+would solve the problem of other Cargill people using the line, putting
+us
+over the limit, without me knowing...
+
+We could change the language of the POA to this... we will not go over
+Global's piece of the Cargill line...I think this would solve our main
+concern...
+
+Please let me know... we are eager to keep trading with Global and
+yourselves...
+
+Regards,
+Caroline
+
+Dee:  Let me know if we need to discuss anything.  I am hopeful that we are 
+ready to prepare execution copies.  Regards.
+
+Sara Shackleton
+   Susan Bailey
+   02/27/2001 08:23 AM
+            
+Dee,
+
+Attached for your review is a blacklined version of the: (a) Schedule and (b) 
+Paragraph 13 to the ISDA Master Agreement.   These have been compared against 
+the draft dated 11/8/2000, and include ENA's accepted changes per your (a) 
+faxed comments transmitted to ENA on January 5, 2001, and  (b) e-mail 
+comments transmitted to ENA on January 19th, 2001.
+
+We look forward to your response.
+
+  
+
+Cordially,
+Susan S. Bailey
+
+I don't know anything about these transactions.
+
+Sara Shackleton
+   Jorge A Garcia@ENRON
+   03/01/2001 01:35 PM
+            
+Good Afternoon Sara,
+
+I wanted to follow up with you regarding the creation and approval of ISDA 
+Confirmations for the following equity trades that I understand Laurel had 
+discussed with you previously.
+
+1) Edison International- Swap with Enron Europe Ltd. (2 in total)
+2) PG & E- Swap with Enron Europe Ltd. (3 in total)
+
+Please advise.
+
+Regards,
+
+Jorge
+
+"Calculation of Floating Amount: The Floating Amount payable by [ENA] on a 
+Payment Date will be calculated for that Payment Date as follows:
+     
+    Floating Amount = (Notional Quantity per Calculation Period X Floating 
+Price) - USD[38,000?]
+
+Sara Shackleton
+
+"Other Provisions: On each Payment Date, [ENA] shall pay [a fee of] [an 
+amount equal to] USD{38,000?], which amount shall be subject to the netting 
+                                                 provisions of the [Master 
+Agreement - how do you refer to the agreement?]"
+
+Sara Shackleton
+   Sara Shackleton
+   03/02/2001 02:10 PM
+            
+"Calculation of Floating Amount: The Floating Amount payable by [ENA] on a 
+Payment Date will be calculated for that Payment Date as follows:
+     
+    Floating Amount = (Notional Quantity per Calculation Period X Floating 
+Price) - USD[38,000?]
+
+Sara Shackleton
+
+What person(s) in London prepares credit for the English and Singapore 
+financial transactions?  At some point in the not so distant future, the 
+Houson and London credit departments need to speak in order that each 
+understands the "philosophy" behind credit analysis for the omnibus and 
+master transactions.  I look forward to hearing from you.   Regards.  Sara
+
+ps  Congrats on your promotion!  I didn't have a chance to speak with you 
+after the offsite to shake your hand.  Hope you enjoyed your weekend in 
+Houston. 
+
+looks fine
+
+Sara Shackleton
+   Carlos Alatorre@ENRON
+   02/27/2001 06:07 PM
+            
+Sara:
+We need to change the Prod Description fro the LME Product. The change is 
+mainly on the Settlement Date text, which instead of  "...Two business days 
+after the date of the Transaction..." shall read as follow:
+For Curr LME     LME (Spot)              01Mar01         JPY/USD
+A currency Transaction with Enron Europe Finance & Trading Limited ("EEFTL") 
+as agent for Risk Management & Trading Corp. under which either (A) for the 
+case in which Counterparty submits an offer to buy from EEFTL, Counterparty 
+shall receive the Base Currency Amount and shall pay the Foreign Currency 
+Amount, or (B) for the case in which Counterparty submits an offer to sell to 
+EEFTL, Counterparty shall pay the Base Currency Amount and shall receive the 
+Foreign Currency Amount. The Base Currency Amount shall equal the volume 
+submitted by the Counterparty via the Website. The Foreign Currency Amount 
+shall equal the Base Currency Amount, multiplied by the daily London Metal 
+Exchange (LME) fixing rate as published by Reuters on page MTLE on the date 
+of the transaction, modified by the price submitted by the Counterparty via 
+the Website.
+
+The term of the Transaction shall correspond to the date(s) set forth in the 
+Product description on the Website.
+
+The Settlement date shall be the date(s) set forth in the Product description 
+on the Website.
+
+The price is quoted in JPY (the 'Foreign Currency') per US Dollar (the 'Base 
+Currency').
+The unit of measure against which the price is quoted shall be US Dollars.
+
+Please let me know your approval before we make any changes.
+Thanks
+Carlos
+

@@ -1,0 +1,39 @@
+Vince, 
+
+We are still trying to work the PSE swap transaction, now that the forex desk 
+has been able to find a fix for CPI in the market. 
+
+Further to my voicemail, our colleagues in credit are calculating the reserve 
+on the PSE swap.  They are currently using 9.5% fixed based on the 1 year 
+implied volatility.  Volatility of USD/DM has been in the range of between 7% 
+and 11%.  Can one of your research staff justify a suitable 20 year 
+volalatility number for USD/Euro.  Ideally, we would like a fast turnaround.  
+
+In addition, is there someone who could consider the correlation between US 
+CPI and the $/euro exchange rate.  The credit guys are currently assuming 
+that there is no correlation and may consequently be double dipping the 
+credit reserve on this basis too.  
+
+Grateful for any help or suggestions you could provide. 
+
+Sid 
+
+Vincent,
+
+I met you at the Risk conference last week in Houston. I enjoyed your
+presentations very much.
+I was wondering if you could give me some references regarding the
+calculation of correlation coefficients from a GARCH model.
+
+Thank you.
+
+Magali Van Belle
+Consultant
+
+              PHB Hagler Bailly
+MANAGEMENT AND ECONOMIC CONSULTANTS
+
+PHB Hagler Bailly, Inc.   (202) 828-3933 direct dial
+1776 Eye Street, N.W.   (202) 296-3858 facsimile
+Washington, D.C. 20006-3700
+mvanbell@haglerbailly.com e-mail

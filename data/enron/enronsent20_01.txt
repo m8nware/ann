@@ -1,0 +1,127 @@
+  David W Delainey@ECT
+  11/10/2000 01:04 PM
+           
+Steve, I noticed that our allocation from 2000 to 2001 is going up by 21% 
+year on year (ie) $13.9M from $11.5M.  We have been able to keep ENA's direct 
+group expenses flat year on year, we are trying hard to keep the corporate 
+allocation flat year to year as well.  Do you have a view on how we might be 
+able to achieve this goal?
+
+Regards
+Delainey
+
+Don't worry about it ... sorry for putting you back on speaker.  I just 
+wanted Sue to hear (she enjoys utility bashing so much).  Thanks for the 
+comment on the hearing.  In some respects I don't think the first panel could 
+have gone much better;  everyone thanked FERC for intervening (though for 
+different reasons).  The other staff reports are also looking good.  Scott 
+Miller has been a godsend -- somebody not afraid to tell it like it is.
+
+  Jeff Dasovich
+  Sent by: Jeff Dasovich
+  11/10/2000 12:33 PM
+           
+I apologize if I offended anyone.  Please let them know that I was simply 
+quoting the CEO of a large, regulated utility in  California.  Thanks for 
+attributing the quote to me.  You did a great job at the hearing----it went 
+decidely downhill after you left.
+
+Best,
+Jeff
+
+Does she have any interest in meeting one-on-one or is she just looking for a 
+public hanging?  I remain convinced that if we can just get the facts in 
+front of people they will modulate their approach.
+
+  Jeff Dasovich
+  Sent by: Jeff Dasovich
+  11/10/2000 12:21 PM
+          
+Given the short notice, we will politely decline to participate at the 
+hearing on Monday, but will let the good Senator know that, in general, we 
+intend to engage actively in the process and plan to help California find a 
+solution that works for everybody.  Amen.
+
+See below.  Can we get some help on the IBM issues?
+  Erin Rice
+  11/10/2000 11:08 AM
+           
+Steve:
+
+At this point, our IT contacts are backpedalling a bit and suggesting they 
+can overcome the TIBCO and Terminal Server problems.  There are still four 
+important issues, however:
+
+IT still cannot commit to transferring messages across domains.  This means 
+that messages initiated at Corp and intended for the entire Enron 
+organization will not reach any business units outside the Corp domain.
+No messages will reach the EES organization unless IBM agrees not to use 
+their proprietary message delivery tool, WebSphere, and will use WebLogic 
+instead.  WebLogic is required by BackWeb, although it is designed by a 
+separate company.
+HR, intended to be a key user of this tool, will not use BackWeb because 
+survey responses cannot be made anonymous.  HR has already purchased a tool 
+called CONFIRMIT that can execute anonymous surveys.
+Messages will not be delivered simultaneously to all users in the same 
+domain, nor will they be delivered for two to five hours after they are sent 
+by the message administrator.
+
+Another thing to consider is that these messages will be set to expire and 
+disappear within a set period of time, meaning users cannot retrieve them and 
+read them later (as they can with e-mail).  This means that I could be away 
+from the office for several days and miss a message entirely, because it 
+would have expired and disappeared by the time I returned.
+
+The plain fact is that a few members of IT are pushing this initiative, but 
+they lack commercial sponsorship.  They are hoping Corp will foot the bill 
+for a pilot which will allow them to fully test this tool before implementing 
+it company-wide.
+
+Please let us know if you have additional questions.
+
+- er
+
+  Steven J Kean
+  11/09/2000 11:35 AM
+          
+Do we have a sense for how many we can reach, how many we can't and where 
+they are?  Are whole offices (eg Tokyo) unreachable or is it only those who 
+have home offices?
+
+  Courtney Votaw
+  11/08/2000 11:02 AM
+           
+Mark and Steve- 
+
+Erin Rice and I would like to meet with you to discuss the issues concerning 
+BackWeb before we proceed.  As you can see from the Design Document, they are 
+pretty significant.
+
+Thanks,
+ Courtney
+
+
+calendar
+  Paul Kaufman@ECT
+  Sent by: Lysa Akin@ECT
+  11/10/2000 05:59 PM
+           
+  
+
+Paul Kaufman has asked me to set a conference call to review the FERC Meeting 
+that was held Thursday, Nov. 9th.
+
+Please be advised that I have set the call as follows:
+
+Date:  Monday, Nov. 13th
+Time:  11:30am / 1:30pm Central / 2:30pm Eastern
+Call In #: 888-422-7132
+Pin #:  411507
+
+Pin # for Paul Kaufman ONLY: 362416
+
+If you have any questions, please call 503/464-7927.
+
+Lysa Akin
+Ass't. to Paul Kaufman
+
