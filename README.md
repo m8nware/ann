@@ -7,7 +7,8 @@
 The normal ANN run sequence may be found in `run.lisp`.
 It may be invoked either from the REPL or shell: e.g. `sbcl --load run.lisp`.
 
-The documents for annotation should be put into `data` doc.
+The documents for annotation should be put into the <data/> dir. Currently, a small portion of the Enron corpus is
+
 To select a particular annotation scheme the root folder of the texts to annotate should have a file `.ann.yaml` (similar in format to the [default one](data/.ann.yaml)).
 
 New annotation schemes may be defined in <schemas/> dir. The default one is for NER annotation.
