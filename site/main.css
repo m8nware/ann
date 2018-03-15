@@ -96,3 +96,21 @@ FORM {
     text-decoration: none;
     cursor: pointer;
 }
+.green {
+    background-color: lightgreen;
+}
+.yellow {
+    background-color: beige;
+}
+.blue {
+    background-color: lightblue;
+}
+.pink {
+    background-color: pink;
+}
+LI.ann-li A {
+    color: inherit;
+}
+.removed {
+    opacity: 0.3;
+}

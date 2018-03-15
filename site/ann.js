@@ -114,10 +114,10 @@ function post_ann() {
         $("#txt-data").html(data.txt);
         $("#ann-data").html(data.ann);
     });
-
     
     return false;
 }
+
 
 $(function () {
     modal = document.getElementById("modal");
