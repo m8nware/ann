@@ -16,7 +16,7 @@
                  (:file "ann")
                  (:module "formats" :serial t
                   :components ((:file "bsf")))
-                 (:file "diff")
+;                 (:file "diff")
                  (:file "site")))
    #+dev
    (:module "test" :serial t
