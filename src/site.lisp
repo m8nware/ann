@@ -69,7 +69,9 @@
           "Welcome to Ann, an annotation assistant."
           :br "Please, select file to annotate:")
     (if-it (let ((dir (strcat "data" (if dir (strcat "/" dir) ""))))
-             (append (directory (local-file dir "*.*"))
+             (append (set-difference (directory (local-file dir "*.*"))
+                                     (directory (local-file dir "*.tok"))
+                                     :test 'equal)
                      (directory (local-file dir "*/"))))
            (who:htm
             (:div :class "columns"
