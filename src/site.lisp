@@ -103,7 +103,7 @@
                       (pathname-type %))
                 (uiop:directory*
                  (local-file "data"
-                             (fmt "~A/*.~A"
+                             (fmt "~A/*.~(~A~)"
                                   (slice file 0
                                          (position #\/ file
                                                    :from-end t))
