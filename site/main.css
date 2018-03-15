@@ -9,7 +9,7 @@ DIV.page {
     margin-top: 3.428571429rem;
     margin-bottom: 3.428571429rem;
     margin: 0 auto;
-    max-width: 68.571428571rem;
+    min-width: 1200px;
     background-color: #fff;
 }
 DIV.columns {
@@ -39,6 +39,9 @@ DIV#txt-data {
     border: 1px solid #c1c1c1;
     border-radius: 10px;
     padding: 20px;
+}
+DIV.ann-data {
+    min-width: 350px;
 }
 TD {
     vertical-align: top;
