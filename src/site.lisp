@@ -70,7 +70,7 @@
           :br "Please, select file to annotate:")
     (if-it (let ((dir (strcat "data" (if dir (strcat "/" dir) ""))))
              (append (set-difference (directory (local-file dir "*.*"))
-                                     (directory (local-file dir "*.tok"))
+                                     (directory (local-file dir "*.ann"))
                                      :test 'equal)
                      (directory (local-file dir "*/"))))
            (who:htm
