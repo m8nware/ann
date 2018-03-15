@@ -118,50 +118,51 @@
              (with (((raw meta anns) (read-file-with-anns file))
                     (all-files (list-ann-files file meta))
                     (file-pos (position file all-files :test 'string=)))
-               (std-page (:title (fmt "Ann processing: ~A" file)
-                          :style (? @meta.schema :name)
-                          :script "ann")
-                 (:div :id "modal" :class "modal"
-                  (:div :class "modal-content"
-                   (:span :class "close" "✕")
-                   (:form
-                    (:input :type "hidden" :id "modal-hid" :value "")
-                    (:radiogroup
-                     (let (start)
-                       (dotable (k v @meta.schema)
-                         (unless (keywordp k)
-                           (who:htm
-                            (:label
-                             (:input :type "radio" :class "radio"
-                                     :style "display: none"
-                                     :onclick "return post_ann()"
-                                     :id (fmt "radio-~A" k) :value k
-                                     (:span :style (fmt "color: ~A"
-                                                        (? v "color"))
-                                            (who:fmt
-                                             "~A (~A)" k
-                                             (slice (? v "desc") 0
-                                                    (min 30
-                                                         (length (? v "desc"))))))))
-                            (:br)))
-                         (void start))))
-                    (:br)
-                    (:input :type "button" :id "modal-del"
-                            :value "Remove" :disabled "disabled"))))
-                 (who:str (file-nav "ann" all-files file-pos))
-                 (:table
-                  (:tr
-                   (:th "Text")
-                   (:th :style "min-width: 400px;"
-                        "Annotations"))
-                  (:tr
-                   (:td
-                    (:div :id "txt-data"
-                          :contenteditable t :onmouseup "ann_dialog()"
-                          (who:str (anned-text raw anns))))
-                   (:td
-                    (:div :id "ann-data"
-                          (who:str (ann-htm meta anns)))))))))
+               (when file-pos
+                 (std-page (:title (fmt "Ann processing: ~A" file)
+                            :style (? @meta.schema :name)
+                            :script "ann")
+                  (:div :id "modal" :class "modal"
+                   (:div :class "modal-content"
+                    (:span :class "close" "✕")
+                    (:form
+                     (:input :type "hidden" :id "modal-hid" :value "")
+                     (:radiogroup
+                      (let (start)
+                        (dotable (k v @meta.schema)
+                          (unless (keywordp k)
+                            (who:htm
+                             (:label
+                              (:input :type "radio" :class "radio"
+                                      :style "display: none"
+                                      :onclick "return post_ann()"
+                                      :id (fmt "radio-~A" k) :value k
+                                      (:span :style (fmt "color: ~A"
+                                                         (? v "color"))
+                                             (who:fmt
+                                              "~A (~A)" k
+                                              (slice (? v "desc") 0
+                                                     (min 30
+                                                          (length (? v "desc"))))))))
+                             (:br)))
+                          (void start))))
+                     (:br)
+                     (:input :type "button" :id "modal-del"
+                             :value "Remove" :disabled "disabled"))))
+                  (who:str (file-nav "ann" all-files file-pos))
+                  (:table
+                   (:tr
+                    (:th "Text")
+                    (:th :style "min-width: 400px;"
+                         "Annotations"))
+                   (:tr
+                    (:td
+                     (:div :id "txt-data"
+                           :contenteditable t :onmouseup "ann_dialog()"
+                           (who:str (anned-text raw anns))))
+                    (:td
+                     (:div :id "ann-data"
+                           (who:str (ann-htm meta anns))))))))))
          (htt:abort-request-handler
           (princ-to-string (:= (htt:return-code*) htt:+http-not-found+)))))
              
