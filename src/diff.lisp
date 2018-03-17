@@ -9,7 +9,7 @@
   (with (((_ span text) (split #\Tab line))
          ((cat beg _) (split #\Space span))
          (beg (parse-integer beg))
-         (text (string-trim (cons #\. nlp:+white-chars+) text)))
+         (text (string-trim (list #\. #\Space #\Tab #\Newline) text)))
     (make-span :cat (mkeyw cat)
                :beg beg
                :end (+ beg (length text))
