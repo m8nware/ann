@@ -69,10 +69,10 @@
           "Welcome to Ann, an annotation assistant."
           :br "Please, select file to annotate:")
     (if-it (let ((dir (strcat "data" (if dir (strcat "/" dir) ""))))
-             (append (set-difference (directory (local-file dir "*.*"))
-                                     (directory (local-file dir "*.ann"))
-                                     :test 'equal)
-                     (directory (local-file dir "*/"))))
+             (set-difference (directory (local-file dir "*.*"))
+                             (cons (local-file dir ".ann.yaml")
+                                   (directory (local-file dir "*.ann")))
+                             :test 'equal))
            (who:htm
             (:div :class "columns"
              (dolist (file (sort (mapcar ^(if-it (pathname-name %)
