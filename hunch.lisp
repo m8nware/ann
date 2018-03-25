@@ -2,7 +2,8 @@
 (ql:quickload '#:rutilsx)
 (ql:quickload '#:hunchentoot)
 (ql:quickload '#:named-readtables)
-(ql:quickload '#:swank)
+(eval-when (:load-toplevel :compile-toplevel :execute)
+  (ql:quickload '#:swank))
 
 (eval-when (:load-toplevel :compile-toplevel :execute)
   (cl:rename-package "CL-PPCRE" "CL-PPCRE" '("PPCRE" "RE"))

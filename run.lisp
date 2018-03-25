@@ -4,4 +4,4 @@
 
 (ql:quickload :ann)
 
-(hunch:start-web 7001)
+#+dev(hunch:start-web 7001)
