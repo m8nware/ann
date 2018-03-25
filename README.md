@@ -6,6 +6,7 @@
 
 The normal ANN run sequence may be found in `run.lisp`.
 It may be invoked either from the REPL or shell: e.g. `sbcl --load run.lisp`.
+If you want to run web app, be sure to add `:dev` into `*features*` like `rlwrap sbcl --eval "(push :dev *features*)" --load run.lisp` or in REPL.
 
 The documents for annotation should be put into the `data/` dir. Currently, a small portion of the Enron corpus is
 
