@@ -4,3 +4,4 @@
 .*
 *.ann
 !.gitignore
+!data/enron/.ann.yaml
