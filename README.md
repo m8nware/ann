@@ -19,6 +19,8 @@ The annotation process is intuitive: just select the spans to annotate and choos
 
 ![](doc/screen2.jpg)
 
+There's ability to setup basic auth for users, for that place `users.txt` with each line being `%username% %password%`
+
 ## License
 
 The license of ANN is Apache 2.0.

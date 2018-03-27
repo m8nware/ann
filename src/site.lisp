@@ -426,7 +426,7 @@ AGREEMENT ~A-~A: ~$~%AGREEMENT ~A-~A: ~$~%AGREEMENT ~A-~A: ~$~%"
          (dolines (line users-file)
                   (with (((user pass) (split #\Space line :count 2)))
                         (:= (? users user) pass)))
-         (format *debug-io* "No users file at: ~A" users-file))
+         (format *debug-io* "No users file at: ~A – continuing without auth" users-file))
      users))
 
  (:= *users* (load-auth)))
