@@ -133,7 +133,16 @@ $(function () {
     }
 
     window.onkeydown = function(event) {
-        if (event.keyCode == 27 && modal.style.display == "block") {
+        var ESCAPE_CODE = 27;
+        var LEFT_ARROW = 37;
+        var RIGHT_ARROW = 39;
+        if (event.keyCode == LEFT_ARROW) {
+            document.querySelectorAll('.file-nav a')[0].click()
+        }
+        if (event.keyCode == RIGHT_ARROW) {
+            document.querySelectorAll('.file-nav a')[1].click()
+        }
+        if (event.keyCode == ESCAPE_CODE && modal.style.display == "block") {
             hide_modal();
         }
     };
