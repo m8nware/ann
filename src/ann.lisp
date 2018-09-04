@@ -101,6 +101,7 @@
                                                              @meta.schema))))))
           (:= (? schema :name) @meta.schema
               @meta.schema schema)
+          (write-schema-stylesheet meta)
           meta)
         (error "No meta file (.ann.yaml)")))
   (defun clear-schema-cache ()
